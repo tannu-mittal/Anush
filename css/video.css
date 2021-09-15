@@ -1,0 +1,21 @@
+.video {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 730px;
+  border: 5px solid pink;
+}
+.frame {
+  border: 5px solid grey;
+}
+.btn {
+  background: rgb(245, 172, 194);
+  border: 1px solid palevioletred;
+  padding: 10px 20px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  border-radius: 20px;
+  cursor: pointer;
+  color: cornsilk;
+}

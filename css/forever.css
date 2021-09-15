@@ -1,0 +1,28 @@
+.forever {
+  margin-inline: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.forever-content {
+  text-align: justify;
+  font-family: Lato;
+  margin-top: 20px;
+  background: aqua;
+  padding: 15px;
+  border-radius: 20px;
+}
+.btn-back {
+  background: rgb(245, 172, 194);
+  border: 1px solid palevioletred;
+  padding: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.btn-back:hover {
+  transition: transform 0.5s ease;
+  transform: scale(1.2);
+}
